@@ -1,0 +1,23 @@
+{
+  "name": "doc_song2020",
+  "version": "1.0.0",
+  "description": "a simple relation graph",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hql1998@bitbucket.org/hql1998/doc_song2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/hql1998/doc_song2020#readme",
+  "dependencies": {
+    "d3": "^5.15.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
